@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\LapTrinhOOP\xe\xe\bin\Debug\xe.exe.config
+C:\Users\Vuong\Desktop\LapTrinhOOP\xe\xe\obj\Debug\xe.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\LapTrinhOOP\xe\xe\bin\Debug\xe.exe
+C:\Users\Vuong\Desktop\LapTrinhOOP\xe\xe\bin\Debug\xe.pdb
+C:\Users\Vuong\Desktop\LapTrinhOOP\xe\xe\obj\Debug\xe.exe
+C:\Users\Vuong\Desktop\LapTrinhOOP\xe\xe\obj\Debug\xe.pdb

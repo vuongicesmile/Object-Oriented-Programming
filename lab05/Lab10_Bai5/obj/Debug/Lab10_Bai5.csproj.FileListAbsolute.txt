@@ -1,0 +1,12 @@
+D:\DAI_HOC\NAM_2\HOC_KY_4\NGUYEN_LY_LAP_TRINH_HUONG_DOI_TUONG\1710148_TruongCongMinhDuc_CTK41\Lab\1710148_TruongCongMinhDuc_Lab10\Lab10_Bai5\Lab10_Bai5\bin\Debug\Lab10_Bai5.exe.config
+D:\DAI_HOC\NAM_2\HOC_KY_4\NGUYEN_LY_LAP_TRINH_HUONG_DOI_TUONG\1710148_TruongCongMinhDuc_CTK41\Lab\1710148_TruongCongMinhDuc_Lab10\Lab10_Bai5\Lab10_Bai5\bin\Debug\Lab10_Bai5.exe
+D:\DAI_HOC\NAM_2\HOC_KY_4\NGUYEN_LY_LAP_TRINH_HUONG_DOI_TUONG\1710148_TruongCongMinhDuc_CTK41\Lab\1710148_TruongCongMinhDuc_Lab10\Lab10_Bai5\Lab10_Bai5\bin\Debug\Lab10_Bai5.pdb
+D:\DAI_HOC\NAM_2\HOC_KY_4\NGUYEN_LY_LAP_TRINH_HUONG_DOI_TUONG\1710148_TruongCongMinhDuc_CTK41\Lab\1710148_TruongCongMinhDuc_Lab10\Lab10_Bai5\Lab10_Bai5\obj\Debug\Lab10_Bai5.exe
+D:\DAI_HOC\NAM_2\HOC_KY_4\NGUYEN_LY_LAP_TRINH_HUONG_DOI_TUONG\1710148_TruongCongMinhDuc_CTK41\Lab\1710148_TruongCongMinhDuc_Lab10\Lab10_Bai5\Lab10_Bai5\obj\Debug\Lab10_Bai5.pdb
+D:\DAI_HOC\NAM_2\HOC_KY_4\NGUYEN_LY_LAP_TRINH_HUONG_DOI_TUONG\1710148_TruongCongMinhDuc_CTK41\Lab\1710148_TruongCongMinhDuc_Lab10\Lab10_Bai5\Lab10_Bai5\obj\Debug\Lab10_Bai5.csprojResolveAssemblyReference.cache
+D:\1812790_NguyenKhanhLinh\Lab10_Bai5\bin\Debug\Lab10_Bai5.exe.config
+D:\1812790_NguyenKhanhLinh\Lab10_Bai5\bin\Debug\Lab10_Bai5.exe
+D:\1812790_NguyenKhanhLinh\Lab10_Bai5\bin\Debug\Lab10_Bai5.pdb
+D:\1812790_NguyenKhanhLinh\Lab10_Bai5\obj\Debug\Lab10_Bai5.csprojResolveAssemblyReference.cache
+D:\1812790_NguyenKhanhLinh\Lab10_Bai5\obj\Debug\Lab10_Bai5.exe
+D:\1812790_NguyenKhanhLinh\Lab10_Bai5\obj\Debug\Lab10_Bai5.pdb

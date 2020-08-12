@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\LapTrinhOOP\hinhtron\hinhtron\bin\Debug\hinhtron.exe.config
+C:\Users\Vuong\Desktop\LapTrinhOOP\hinhtron\hinhtron\bin\Debug\hinhtron.exe
+C:\Users\Vuong\Desktop\LapTrinhOOP\hinhtron\hinhtron\bin\Debug\hinhtron.pdb
+C:\Users\Vuong\Desktop\LapTrinhOOP\hinhtron\hinhtron\obj\Debug\hinhtron.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\LapTrinhOOP\hinhtron\hinhtron\obj\Debug\hinhtron.exe
+C:\Users\Vuong\Desktop\LapTrinhOOP\hinhtron\hinhtron\obj\Debug\hinhtron.pdb

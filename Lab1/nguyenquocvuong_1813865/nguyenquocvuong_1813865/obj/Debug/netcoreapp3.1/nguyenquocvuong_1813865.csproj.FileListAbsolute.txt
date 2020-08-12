@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\obj\Debug\netcoreapp3.1\nguyenquocvuong_1813865.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\obj\Debug\netcoreapp3.1\nguyenquocvuong_1813865.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\obj\Debug\netcoreapp3.1\nguyenquocvuong_1813865.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\obj\Debug\netcoreapp3.1\nguyenquocvuong_1813865.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\bin\Debug\netcoreapp3.1\nguyenquocvuong_1813865.exe
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\bin\Debug\netcoreapp3.1\nguyenquocvuong_1813865.deps.json
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\bin\Debug\netcoreapp3.1\nguyenquocvuong_1813865.runtimeconfig.json
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\bin\Debug\netcoreapp3.1\nguyenquocvuong_1813865.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\bin\Debug\netcoreapp3.1\nguyenquocvuong_1813865.dll
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\bin\Debug\netcoreapp3.1\nguyenquocvuong_1813865.pdb
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\obj\Debug\netcoreapp3.1\nguyenquocvuong_1813865.dll
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\obj\Debug\netcoreapp3.1\nguyenquocvuong_1813865.pdb
+C:\Users\Administrator\source\repos\nguyenquocvuong_1813865\nguyenquocvuong_1813865\obj\Debug\netcoreapp3.1\nguyenquocvuong_1813865.genruntimeconfig.cache

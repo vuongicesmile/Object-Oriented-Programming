@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\LapTrinhOOP\bai03dathuc\bai03dathuc\bin\Debug\bai03dathuc.exe.config
+C:\Users\Vuong\Desktop\LapTrinhOOP\bai03dathuc\bai03dathuc\bin\Debug\bai03dathuc.exe
+C:\Users\Vuong\Desktop\LapTrinhOOP\bai03dathuc\bai03dathuc\bin\Debug\bai03dathuc.pdb
+C:\Users\Vuong\Desktop\LapTrinhOOP\bai03dathuc\bai03dathuc\obj\Debug\bai03dathuc.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\LapTrinhOOP\bai03dathuc\bai03dathuc\obj\Debug\bai03dathuc.exe
+C:\Users\Vuong\Desktop\LapTrinhOOP\bai03dathuc\bai03dathuc\obj\Debug\bai03dathuc.pdb
