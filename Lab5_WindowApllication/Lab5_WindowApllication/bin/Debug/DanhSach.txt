@@ -1,0 +1,4 @@
+1512451*Nguyễn Xuân*Thắng*Nam*0/D/2000*CTK40*321716337*0123456789*01 Phù Đổng Thiên Vương, P8, Đà Lạt*Mạng Máy Tính,Hệ Điều Hành
+1610195*Nguyễn Đức Duy*Tuấn*Nam*0/D/1998*CTK41*453216782*4563322551*01 Phù Đổng Thiên Vương, P8, Đà Lạt*Lập Trình Mạng,An Toàn Và Bảo Mật Hệ Thống
+1611192*Nguyễn Gia*Bảo*Nam*0/D/1998*CTK42*453216782*4564234822*24B, Nguyen Du, P9*Lập Trình CSDL,Đồ Án Cơ Sở
+1610207*La Quốc*Thắng*Nam*40/D/2020*CTK40*123456789*0987654321*Phường 7*Mạng Máy Tính
