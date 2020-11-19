@@ -1,0 +1,13 @@
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.MainForm.resources
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.Properties.Resources.resources
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\OnTapGiuaKy.exe.config
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\OnTapGiuaKy.exe
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\OnTapGiuaKy.pdb
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.csproj.CopyComplete
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.exe
+C:\Users\Administrator\Downloads\LapTrinhCSDL-main\Lab\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.pdb
