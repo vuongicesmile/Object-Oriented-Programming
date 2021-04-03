@@ -1,0 +1,11 @@
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\bin\Debug\Client.exe.config
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\bin\Debug\Client.exe
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\bin\Debug\Client.pdb
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\obj\Debug\Client.exe
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\obj\Debug\Client.pdb
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\bin\Debug\Common.dll
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\bin\Debug\Common.pdb
+C:\Users\Vuong\Desktop\ThuBaiThiDonGian\Client\obj\Debug\Client.Client.resources
